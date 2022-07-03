@@ -1,6 +1,6 @@
 ﻿# Proyecto-Software
  
-- instrucciones macbook
+# instrucciones macbook
 
 - Abrir terminal
 
