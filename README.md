@@ -19,3 +19,4 @@
  pip install -r requirements.txt
 - pip install djangorestframework para instalar dependencias de django
 - python3 manage.py runserver para hacer correr el servidor
+- se puede utilizar la base de datos en el archivo dbsqlite3
